@@ -1,0 +1,8 @@
+#Assa Abloy ARX
+https://www.criminalip.io/ko/asset/search?query=Server%3A+standalone.server
+
+#Lenel OnGuard
+https://www.criminalip.io/ko/asset/search?query=Lenel+Embedded+Web+Server%2F1.0
+
+#Vanderbilt
+https://www.criminalip.io/ko/asset/search?query=SPC4300
